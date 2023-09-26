@@ -1,0 +1,5 @@
+32:
+https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-32-bit.deb
+
+64:
+https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-64-bit.deb
