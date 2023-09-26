@@ -1,0 +1,1 @@
+https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.apk
